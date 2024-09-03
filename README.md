@@ -27,7 +27,7 @@ Follow these steps to set up and run the Wiktionary Data Processor on your local
 1. Clone the repository or download the ZIP file.
 
    ```bash
-   git clone https://github.com/yourusername/wiktionary-data-processor.git
+   git clone https://github.com/rohanredtj/wiktionary-abbreviation-extractor.git
    ```
 
 2. Navigate to the project directory:
@@ -83,4 +83,4 @@ abbreviation,noun,abbr
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to open an issue or contact me at rohan.rathore93@example.com.
+If you have any questions or suggestions, please feel free to open an issue or contact at rohan.rathore93@example.com.
