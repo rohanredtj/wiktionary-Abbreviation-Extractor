@@ -22,6 +22,11 @@ A sophisticated tool designed to extract and analyze abbreviations and linguisti
 
 Follow these steps to set up and run the Wiktionary Data Processor on your local machine.
 
+### Prerequisites
+
+- Python 3.7 or higher
+- pip (Python package installer)
+
 ### Installation
 
 1. Clone the repository or download the ZIP file.
@@ -81,6 +86,20 @@ abbreviation,noun,abbr
 - **Complex Text Processing**: Developed sophisticated regex patterns to accurately extract abbreviations and linguistic information.
 - **Edge Cases**: Implemented robust error handling and validation to manage various linguistic edge cases and ensure data integrity.
 
+## Future Improvements
+
+- Implement multi-threading for faster processing of large dump files
+- Add support for additional languages beyond English
+- Integrate with a database for more efficient data storage and retrieval
+
+## Contributing
+
+Contributions to improve the Wiktionary Data Processor are welcome. Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 ## Contact
 
-If you have any questions or suggestions, please feel free to open an issue or contact me at rohan.rathore93@example.com.
+If you have any questions or suggestions, please feel free to open an issue or contact me at your.email@example.com.
