@@ -1,0 +1,1 @@
+# wiktionary-Abbreviation-Extractor
